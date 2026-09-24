@@ -1,0 +1,172 @@
+Privacy Policy
+
+Last Updated: September 24, 2026
+
+ShieldAI VPN ("we", "our", or "the App") is committed to protecting your privacy. This Privacy Policy explains how information is handled when you use our Android application.
+
+1. Information We Collect
+
+We aim to collect only information necessary to operate and improve the App.
+
+Information We May Process
+
+Depending on the features you use, the App may process:
+
+- VPN connection status
+- Selected VPN/proxy server
+- Connection duration
+- Server latency and performance information
+- Approximate country/region
+- Public IP address while checking your connection
+- App diagnostic and crash information
+- Device and app information required for security and compatibility
+
+We do not intentionally collect or store:
+
+- Browsing history
+- Websites you visit
+- Website content
+- Passwords
+- Messages
+- Photos or personal files
+- DNS browsing history
+- Contents of your internet traffic
+
+2. VPN Traffic
+
+When you connect to a VPN server, your internet traffic may pass through the selected VPN server.
+
+The VPN infrastructure may technically process network information necessary to establish and maintain the connection, such as IP addresses and connection metadata.
+
+We do not intentionally retain browsing activity or the contents of your internet traffic.
+
+Important: No VPN service can guarantee complete anonymity or absolute security.
+
+3. Public Proxy Servers
+
+If the App provides access to third-party public proxy servers, those servers may be operated by independent parties.
+
+We cannot guarantee the privacy, security, reliability, or practices of every third-party proxy server.
+
+We recommend using trusted VPN servers for sensitive activities.
+
+4. AI Features
+
+The App may use Google Gemini or other AI services to provide features such as:
+
+- Privacy recommendations
+- Server recommendations
+- Connection troubleshooting
+- Privacy explanations
+- AI Privacy Assistant
+
+Only information necessary to provide the requested AI feature should be sent to the relevant AI service.
+
+The App should not send passwords, private messages, browsing history, or the contents of VPN traffic to the AI system.
+
+AI-generated recommendations may not always be accurate and should not be considered professional security advice.
+
+5. Location Information
+
+The App may use approximate location information to:
+
+- Display relevant server locations
+- Recommend nearby servers
+- Improve server selection
+
+We do not require precise GPS location for basic VPN functionality unless a feature explicitly requires it.
+
+6. Analytics and Crash Reports
+
+We may use services such as Firebase Analytics or Firebase Crashlytics to understand application performance and identify technical problems.
+
+These services may process limited device, application, and diagnostic information.
+
+You should configure these services according to your actual implementation and Google's applicable privacy requirements.
+
+7. Advertising
+
+The free version of the App may display advertisements through third-party advertising providers.
+
+Advertising providers may process information such as advertising identifiers, device information, and general usage information in accordance with their own privacy policies.
+
+We do not sell your browsing history or VPN traffic to advertisers.
+
+8. Data Security
+
+We use reasonable technical and organizational measures to protect information processed by the App.
+
+Where appropriate, we use:
+
+- HTTPS/TLS
+- Secure API communication
+- Android Keystore
+- Encrypted storage
+- Access controls
+- Secure authentication
+- Regular security updates
+
+However, no electronic system can be guaranteed to be completely secure.
+
+9. Data Retention
+
+We retain information only for as long as reasonably necessary for the purposes described in this Privacy Policy.
+
+Connection history stored locally on your device can be deleted through the App where the feature is provided.
+
+We do not intentionally retain your browsing history or the contents of your VPN traffic.
+
+10. Third-Party Services
+
+The App may use third-party services including:
+
+- Google Firebase
+- Google Gemini
+- Google AdMob
+- VPN/proxy infrastructure providers
+- Cloud hosting providers
+
+These providers may process information according to their respective privacy policies.
+
+11. Children's Privacy
+
+The App is not specifically directed toward children under the applicable minimum age for digital services in their jurisdiction.
+
+We do not knowingly collect personal information from children for purposes unrelated to providing the service.
+
+12. Your Choices
+
+Depending on the features available in the App, you may be able to:
+
+- Disconnect from the VPN at any time
+- Delete locally stored connection history
+- Disable optional analytics
+- Disable notifications
+- Control advertising preferences through Android or applicable advertising settings
+- Delete your account, if an account system is provided
+
+13. Changes to This Privacy Policy
+
+We may update this Privacy Policy when the App's features, services, or legal requirements change.
+
+The updated version will be made available through the App or our website, with the "Last Updated" date changed accordingly.
+
+14. Contact Us
+
+If you have questions about this Privacy Policy or our privacy practices, contact us at:
+
+Developer: [Your Name / Company Name]
+
+Email: [Your Privacy Email]
+
+Website: [Your Website]
+
+15. Important Disclosure
+
+ShieldAI VPN is designed as a privacy and connectivity tool. It does not guarantee complete anonymity, protection against all forms of tracking, or protection against malicious websites, malware, phishing, or other online threats.
+
+Users are responsible for complying with applicable laws and the terms of service of the networks and services they access.
+
+---
+
+© 2026 [Your Name / Company Name]. All rights reserved.
