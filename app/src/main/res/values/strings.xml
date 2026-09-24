@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShieldAI VPN</string>
+    <string name="vpn_channel_name">VPN Connection Status</string>
+    <string name="vpn_channel_desc">Shows ongoing active VPN tunnel status and data transfer</string>
+</resources>

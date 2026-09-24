@@ -1,0 +1,6 @@
+{
+  "name": "ShieldAI VPN",
+  "description": "Premium AI-powered VPN & privacy suite with real-time leak protection, global servers, and Gemini Privacy Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Outer Shield Contour -->
+    <path
+        android:pathData="M54,22 L79,31 C79,53 68,69 54,78 C40,69 29,53 29,31 Z"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="29"
+                android:startY="22"
+                android:endX="79"
+                android:endY="78"
+                android:type="linear">
+                <item android:color="#00F0FF" android:offset="0.0" />
+                <item android:color="#3B82F6" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Inner Shield Body -->
+    <path
+        android:pathData="M54,27 L74,34 C74,51 65,65 54,72 C43,65 34,51 34,34 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="34"
+                android:startY="27"
+                android:endX="74"
+                android:endY="72"
+                android:type="linear">
+                <item android:color="#2500E5FF" android:offset="0.0" />
+                <item android:color="#351D4ED8" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Lock Shackle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M48,46 C48,42 50,39 54,39 C58,39 60,42 60,46 L60,49 L48,49 Z" />
+    <!-- Lock Body -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M45,49 L63,49 C64.1,49 65,49.9 65,51 L65,61 C65,62.1 64.1,63 63,63 L45,63 C43.9,63 43,62.1 43,61 L43,51 C43,49.9 43.9,49 45,49 Z" />
+    <!-- Lock Keyhole -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,53 C52.9,53 52,53.9 52,55 C52,55.7 52.4,56.3 53,56.7 L53,59.5 C53,60 53.4,60.5 54,60.5 C54.6,60.5 55,60 55,59.5 L55,56.7 C55.6,56.3 56,55.7 56,55 C56,53.9 55.1,53 54,53 Z" />
+    <!-- Cyber Core Dot Pulse -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,31 M53,31 A1,1 0 1,1 55,31 A1,1 0 1,1 53,31" />
+</vector>
